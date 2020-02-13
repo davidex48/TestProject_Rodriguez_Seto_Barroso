@@ -2,6 +2,7 @@
 
 void main() {
 
-	std::cout << "HelloPartners";
+	std::cout << "HelloDavid";
+	std::cout << "HelloDarkness";
 
 }
